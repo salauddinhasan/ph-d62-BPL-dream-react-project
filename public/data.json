@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": "$1,000,000",
+    "playerImg": "/assets/virat.png",
+    "rating": 4.9
+  },
+  {
+    "id": 2,
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-Rounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": "$950,000",
+    "playerImg": "/assets/stokes.png",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": "$900,000",
+    "playerImg": "/assets/bumrah.png",
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "$850,000",
+    "playerImg": "/assets/williamson.png",
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": "$800,000",
+    "playerImg": "/assets/rashid.png",
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "playerName": "Steve Smith",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": "$850,000",
+    "playerImg": "/assets/smith.png",
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "playerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "playerType": "Bowler",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "price": "$800,000",
+    "playerImg": "/assets/boult.png",
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": "$900,000",
+    "playerImg": "/assets/buttler.png",
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "playerName": "Andre Russell",
+    "playerCountry": "West Indies",
+    "playerType": "All-Rounder",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": "$870,000",
+    "playerImg": "/assets/russell.png",
+    "rating": 4.7
+  },
+  {
+    "id": 10,
+    "playerName": "Rashid Patel",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "$750,000",
+    "playerImg": "/assets/patel.png",
+    "rating": 4.5
+  }
+]
