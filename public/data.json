@@ -7,7 +7,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
     "price": "$1,000,000",
-    "playerImg": "/assets/virat.png",
+    "playerImg": "https://i.ibb.co.com/L7D6LXv/images-q-tbn-ANd9-Gc-Qo6td-NPGQZCsc-IEkn4i-SBXw-T1-YHmh-Ru8-Lqpg-s.jpg",
     "rating": 4.9
   },
   {
@@ -18,7 +18,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm fast-medium",
     "price": "$950,000",
-    "playerImg": "/assets/stokes.png",
+    "playerImg": "https://i.ibb.co.com/yBWHKLyy/cover-1651140312-Untitled-1.jpg",
     "rating": 4.8
   },
   {
@@ -29,7 +29,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
     "price": "$900,000",
-    "playerImg": "/assets/bumrah.png",
+    "playerImg": "https://i.ibb.co.com/4gSL0F8G/119128041.png",
     "rating": 4.8
   },
   {
@@ -40,7 +40,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "price": "$850,000",
-    "playerImg": "/assets/williamson.png",
+    "playerImg": "https://i.ibb.co.com/Xxg6VjYS/383103-6.jpg",
     "rating": 4.7
   },
   {
@@ -51,7 +51,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
     "price": "$800,000",
-    "playerImg": "/assets/rashid.png",
+    "playerImg": "https://i.ibb.co.com/90k9TwQ/rashid-khan-bbl10.png",
     "rating": 4.6
   },
   {
@@ -62,7 +62,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
     "price": "$850,000",
-    "playerImg": "/assets/smith.png",
+    "playerImg": "https://i.ibb.co.com/7x2BYvnh/271.png",
     "rating": 4.7
   },
   {
@@ -73,7 +73,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast-medium",
     "price": "$800,000",
-    "playerImg": "/assets/boult.png",
+    "playerImg": "https://i.ibb.co.com/GQKjRTYM/image-22-700x700.jpg",
     "rating": 4.6
   },
   {
@@ -84,7 +84,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
     "price": "$900,000",
-    "playerImg": "/assets/buttler.png",
+    "playerImg": "https://i.ibb.co.com/0RRCNPNn/182.png",
     "rating": 4.8
   },
   {
@@ -95,7 +95,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
     "price": "$870,000",
-    "playerImg": "/assets/russell.png",
+    "playerImg": "https://i.ibb.co.com/gFmqhPVK/119127559.png",
     "rating": 4.7
   },
   {
@@ -106,7 +106,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "price": "$750,000",
-    "playerImg": "/assets/patel.png",
+    "playerImg": "https://i.ibb.co.com/Y433GGPw/4330.png",
     "rating": 4.5
   }
 ]
