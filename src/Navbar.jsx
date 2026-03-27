@@ -2,7 +2,7 @@ import React from "react";
 import img from '../src/assets/Vector.png';
 import logo from '../src/assets/logo.png';
 
-const Navbar = () => {
+const Navbar = ({coin}) => {
   return (
     <div>
       <div className=" navbar bg-base-100 shadow-sm">
@@ -14,7 +14,7 @@ const Navbar = () => {
         
         <div className="flex-none">
           <button className="btn btn-soft gap-2">
-            <p>0 Coin</p>
+            <p>{coin} Coins</p>
             <img src={img} alt="icon image" />
           </button>
         </div>

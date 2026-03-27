@@ -3,8 +3,10 @@ import './App.css'
 import Navbar from './Navbar'
 import Banner from './Banner'
 import Players from './Players'
-import { Suspense } from 'react'
- 
+import { Suspense, useState } from 'react'
+import { ToastContainer} from 'react-toastify';
+
+
  const fetchPlayers = async () => {
   const res = await fetch('/data.json') 
   return res.json();
@@ -13,13 +15,18 @@ import { Suspense } from 'react'
 function App() {
   
   const playersPromise = fetchPlayers();
+  let [coin, setCoin] = useState(50000)
+
+
   return (
     <div className='max-w-[1400px] mx-auto p-3'>
-      <Navbar/>
+      <Navbar coin={coin}/>
       <Banner/>
       <Suspense fallback={<p>loading....</p>}>
-          <Players playersPromise={playersPromise}></Players>
+          <Players playersPromise={playersPromise} setCoin={setCoin} coin={coin}></Players>
       </Suspense>
+
+       <ToastContainer />
        
     </div>
   )
