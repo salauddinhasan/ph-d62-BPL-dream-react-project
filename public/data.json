@@ -1,0 +1,92 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 1500000,
+    "image": "https://i.ibb.co.com/BVggKHZM/3c93ea680fcc06213992f2e976e66235.jpg"
+  },
+  {
+    "playerId": 2,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1200000,
+    "image": "https://i.ibb.co.com/BVggKHZM/3c93ea680fcc06213992f2e976e66235.jpg"
+  },
+  {
+    "playerId": 3,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": 1350000,
+    "image": "https://i.ibb.co.com/BVggKHZM/3c93ea680fcc06213992f2e976e66235.jpg"
+  },
+  {
+    "playerId": 4,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm legbreak",
+    "biddingPrice": 1100000,
+    "image": "https://i.ibb.co.com/BVggKHZM/3c93ea680fcc06213992f2e976e66235.jpg"
+  },
+  {
+    "playerId": 5,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 1400000,
+    "image": "https://i.ibb.co.com/BVggKHZM/3c93ea680fcc06213992f2e976e66235.jpg"
+  },
+  {
+    "playerId": 6,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1050000,
+    "image": "https://i.ibb.co.com/BVggKHZM/3c93ea680fcc06213992f2e976e66235.jpg"
+  },
+  {
+    "playerId": 7,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "role": "Wicketkeeper",
+    "battingType": "Left-hand bat",
+    "bowlingType": "N/A",
+    "biddingPrice": 950000,
+    "image": "https://i.ibb.co.com/BVggKHZM/3c93ea680fcc06213992f2e976e66235.jpg"
+  },
+  {
+    "playerId": 8,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Slow left-arm orthodox",
+    "biddingPrice": 1150000,
+    "image": "https://i.ibb.co.com/BVggKHZM/3c93ea680fcc06213992f2e976e66235.jpg"
+  },
+  {
+    "playerId": 9,
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "role": "All-Rounder",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1250000,
+    "image": "https://i.ibb.co.com/BVggKHZM/3c93ea680fcc06213992f2e976e66235.jpg"
+  }
+]
